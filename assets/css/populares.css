@@ -16,8 +16,7 @@
         "card-imagem"
         "card-corpo";
     grid-template-columns: 100%;
-    grid-auto-rows: 173px auto;
-    width: calc(20% - 1rem);
+    
     margin-right: 1rem;
 }
 
